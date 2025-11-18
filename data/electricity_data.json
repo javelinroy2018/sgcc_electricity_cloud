@@ -1,6 +1,28 @@
 {
-  "status": "error",
-  "message": "Login failed",
-  "timestamp": "2025-11-18 07:40:53",
-  "users": []
+  "status": "success",
+  "timestamp": "2025-11-18 19:15:27",
+  "users": [
+    {
+      "user_id": "1150001398435",
+      "user_id_suffix": "8435",
+      "balance": -2.06,
+      "last_daily_date": "2025-11-17",
+      "last_daily_usage": 7.53,
+      "yearly_charge": 0.0,
+      "yearly_usage": 0.0,
+      "month_charge": 0.0,
+      "month_usage": 0.0
+    },
+    {
+      "user_id": "1150000473314",
+      "user_id_suffix": "3314",
+      "balance": 85.04,
+      "last_daily_date": "2025-11-17",
+      "last_daily_usage": 6.01,
+      "yearly_charge": 502.95,
+      "yearly_usage": 1030.0,
+      "month_charge": 115.73,
+      "month_usage": 237.0
+    }
+  ]
 }
