@@ -1,13 +1,13 @@
 {
   "status": "success",
-  "timestamp": "2025-11-24 07:23:13",
+  "timestamp": "2025-11-24 19:15:17",
   "users": [
     {
       "user_id": "1150001398435",
       "user_id_suffix": "8435",
-      "balance": 62.91,
-      "last_daily_date": "2025-11-22",
-      "last_daily_usage": 5.6,
+      "balance": 56.76,
+      "last_daily_date": "2025-11-23",
+      "last_daily_usage": 12.68,
       "yearly_charge": 0.0,
       "yearly_usage": 0.0,
       "month_charge": 0.0,
@@ -16,9 +16,9 @@
     {
       "user_id": "1150000473314",
       "user_id_suffix": "3314",
-      "balance": 71.36,
-      "last_daily_date": "2025-11-22",
-      "last_daily_usage": 5.34,
+      "balance": 67.95,
+      "last_daily_date": "2025-11-23",
+      "last_daily_usage": 7.02,
       "yearly_charge": 502.95,
       "yearly_usage": 1030.0,
       "month_charge": 115.73,
