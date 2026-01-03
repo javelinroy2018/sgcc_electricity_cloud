@@ -1,6 +1,17 @@
 {
-  "status": "error",
-  "message": "HTTPConnectionPool(host='localhost', port=40511): Read timed out. (read timeout=120)",
-  "timestamp": "2026-01-03 19:40:23",
-  "users": []
+  "status": "success",
+  "timestamp": "2026-01-04 07:21:09",
+  "users": [
+    {
+      "user_id": "3600236841587",
+      "user_id_suffix": "1587",
+      "balance": -21.6,
+      "last_daily_date": "2026-01-02",
+      "last_daily_usage": 15.54,
+      "yearly_charge": null,
+      "yearly_usage": null,
+      "month_charge": null,
+      "month_usage": null
+    }
+  ]
 }
