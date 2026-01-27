@@ -1,6 +1,6 @@
 {
   "status": "error",
-  "message": "HTTPConnectionPool(host='localhost', port=59617): Read timed out. (read timeout=120)",
-  "timestamp": "2026-01-27 07:43:05",
+  "message": "Login failed",
+  "timestamp": "2026-01-27 19:49:16",
   "users": []
 }
