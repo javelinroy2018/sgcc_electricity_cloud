@@ -1,6 +1,6 @@
 {
   "status": "error",
   "message": "Message: Unable to obtain driver for firefox; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
-  "timestamp": "2026-05-12 21:10:13",
+  "timestamp": "2026-05-13 08:00:51",
   "users": []
 }
